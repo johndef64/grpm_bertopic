@@ -1,0 +1,252 @@
+,Preferred Label
+19,Food Additives
+20,Pesticides
+24,Soil Pollutants
+26,"Water Pollutants, Chemical"
+27,Environmental Pollutants
+28,"Toxicity Tests, Acute"
+31,Toxicogenetics
+35,"Liver Diseases, Alcoholic"
+38,Forensic Toxicology
+39,Toxicology
+42,Liver Function Tests
+44,Acute-On-Chronic Liver Failure
+46,"Liver Failure, Acute"
+48,Liver Failure
+54,Liver Diseases
+62,Oxidative Stress
+64,Cytochrome P-450 Enzyme Inhibitors
+66,Cytochrome P-450 Enzyme Inducers
+87,Cytochrome P-450 Enzyme System
+139,"Receptors, Aryl Hydrocarbon"
+147,Glutathione
+163,Glutathione Disulfide
+172,Glutathione Peroxidase
+176,Glutathione S-Transferase pi
+180,Protein Disulfide Reductase (Glutathione)
+184,Glutathione Synthase
+188,Glutathione Transferase
+196,Glutathione Reductase
+200,Phospholipid Hydroperoxide Glutathione Peroxidase
+201,Uridine Diphosphate Glucuronic Acid
+205,Mixed Function Oxygenases
+209,Aryl Hydrocarbon Hydroxylases
+254,Liver Glycogen
+258,Chemical and Drug Induced Liver Injury
+262,"Liver Cirrhosis, Alcoholic"
+265,Liver Cirrhosis
+266,"Liver Cirrhosis, Biliary"
+268,"Chemical and Drug Induced Liver Injury, Chronic"
+269,Fatty Liver
+270,"Fatty Liver, Alcoholic"
+271,Non-alcoholic Fatty Liver Disease
+275,Liver Circulation
+277,Liver
+285,"Oxidoreductases, N-Demethylating"
+289,Oxidoreductases Acting on CH-NH Group Donors
+293,Oxidoreductases Acting on Sulfur Group Donors
+297,Oxidoreductases Acting on Aldehyde or Oxo Group Donors
+301,"NADH, NADPH Oxidoreductases"
+305,Ketone Oxidoreductases
+309,"Oxidoreductases, O-Demethylating"
+313,Oxidoreductases Acting on CH-CH Group Donors
+317,Aldehyde Oxidoreductases
+321,Oxidoreductases Acting on CH-NH2 Group Donors
+325,Amino Acid Oxidoreductases
+329,Intramolecular Oxidoreductases
+333,Alcohol Oxidoreductases
+341,Toxicokinetics
+351,Metabolic Clearance Rate
+357,Peritoneal Absorption
+358,Gastric Absorption
+359,Intestinal Absorption
+361,"Absorption, Physiological"
+365,Gastrointestinal Absorption
+369,"Absorption, Physicochemical"
+371,Absorption
+385,Oxidation-Reduction
+386,Biotransformation
+387,Calcium Metabolism Disorders
+388,Glucose Metabolism Disorders
+389,"Fructose Metabolism, Inborn Errors"
+390,"Steroid Metabolism, Inborn Errors"
+391,Iron Metabolism Disorders
+392,Lipid Metabolism Disorders
+393,"Metal Metabolism, Inborn Errors"
+394,"Lipid Metabolism, Inborn Errors"
+395,Phosphorus Metabolism Disorders
+396,"Purine-Pyrimidine Metabolism, Inborn Errors"
+397,"Carbohydrate Metabolism, Inborn Errors"
+398,"Amino Acid Metabolism, Inborn Errors"
+399,"Pyruvate Metabolism, Inborn Errors"
+400,Secondary Metabolism
+401,Lipid Metabolism
+402,Carbohydrate Metabolism
+408,Xenobiotics
+0,"Fatigue Syndrome, Chronic"
+24,"Osteoporosis, Postmenopausal"
+82,Weight Loss
+83,Steatorrhea
+84,Malabsorption Syndromes
+85,Dyspepsia
+87,Gastroesophageal Reflux
+88,Postoperative Nausea and Vomiting
+90,Vomiting
+91,Nausea
+92,Constipation
+95,Diarrhea
+96,"Diarrhea, Infantile"
+97,Abdominal Pain
+98,Gastrointestinal Diseases
+117,Fructose Intolerance
+120,"Fructose-1,6-Diphosphatase Deficiency"
+122,High Fructose Corn Syrup
+123,Lactose
+132,Lactose Intolerance
+135,Lactose Tolerance Test
+136,Wheat Germ Agglutinins
+154,Gliadin
+158,Aspartame
+167,Nitrites
+176,Benzoates
+180,Sulfites
+182,Food-Drug Interactions
+186,Crustacea
+187,Soybean Proteins
+205,"Trypsin Inhibitor, Kunitz Soybean"
+223,Soybean Oil
+231,Soy Milk
+233,Soybeans
+235,Soy Foods
+236,"Fruiting Bodies, Fungal"
+237,Fruit
+241,Fruit and Vegetable Juices
+242,Phosphoramide Mustards
+246,Mustard Compounds
+255,Nitrogen Mustard Compounds
+264,Mustard Gas
+268,Mustard Plant
+272,Shellfish Hypersensitivity
+273,Shellfish
+274,Fish Oils
+283,Fish Proteins
+287,Miller Fisher Syndrome
+288,Fish Diseases
+289,Fish Products
+290,Electric Fish
+291,Fishes
+292,Fisheries
+293,Wheat Hypersensitivity
+294,Egg Proteins
+298,Egg Yolk
+299,Eggs
+300,Parasite Egg Count
+301,Egg Shell
+302,Milk Proteins
+306,Milk Thistle
+307,Cultured Milk Products
+308,Milk
+313,Peanut Agglutinin
+322,Glutens
+326,"Diet, Gluten-Free"
+327,Anti-Inflammatory Agents
+328,Gastrointestinal Microbiome
+332,Prebiotics
+333,Probiotics
+334,"Desensitization, Psychologic"
+344,Leukotriene Antagonists
+348,Epinephrine
+357,Radioallergosorbent Test
+358,Patch Tests
+359,Glucose Intolerance
+360,Food Intolerance
+363,Celiac Disease
+365,Anaphylaxis
+370,Irritable Bowel Syndrome
+371,Nutritional Status
+372,Diet Therapy
+4,Mastocytosis
+5,"Mastocytosis, Systemic"
+68,"B-Lymphocytes, Regulatory"
+69,B-Lymphocytes
+70,CD4-Positive T-Lymphocytes
+71,"T-Lymphocytes, Helper-Inducer"
+72,"T-Lymphocytes, Cytotoxic"
+73,T-Lymphocytes
+74,CD8-Positive T-Lymphocytes
+75,"T-Lymphocytes, Regulatory"
+76,Basophils
+77,Eosinophils
+78,Mast Cells
+80,"Anti-Inflammatory Agents, Non-Steroidal"
+87,"Desensitization, Immunologic"
+115,Skin Tests
+125,Immunoglobulin E
+129,Allergens
+134,Egg Hypersensitivity
+136,Milk Hypersensitivity
+138,Peanut Hypersensitivity
+140,Nut and Peanut Hypersensitivity
+143,Food Hypersensitivity
+145,Respiratory Hypersensitivity
+146,Drug Hypersensitivity
+147,"Hypersensitivity, Delayed"
+148,Hypersensitivity
+149,"Hypersensitivity, Immediate"
+0,Superoxide Dismutase-1
+8,Reactive Nitrogen Species
+9,C-Reactive Protein
+13,Tumor Necrosis Factor-alpha
+17,Inflammation Mediators
+18,Neurogenic Inflammation
+19,Inflammation
+20,DNA Damage
+21,Receptor for Advanced Glycation End Products
+25,Protein Carbonylation
+26,"Receptors, Oxidized LDL"
+30,Isoprostanes
+38,Malondialdehyde
+42,Lipid Peroxidation
+47,Nitric Oxide
+51,Nitric Oxide Donors
+68,Hydroxyl Radical
+69,Superoxides
+73,Hydrogen Peroxide
+82,Free Radicals
+83,Reactive Oxygen Species
+97,Catalase
+101,Superoxide Dismutase
+155,Vitamin E
+164,Vitamin E Deficiency
+165,Sodium-Coupled Vitamin C Transporters
+169,Carotenoids
+178,Flavonoids
+187,Polyphenols
+191,Antioxidants
+211,Foodborne Diseases
+212,Food Addiction
+216,Food Insecurity
+220,Food Contamination
+224,United States Food and Drug Administration
+225,Raw Foods
+226,"Food, Preserved"
+227,Fast Foods
+228,Functional Food
+229,Fermented Foods
+231,Food
+232,Infant Food
+233,"Food, Organic"
+234,Food Ingredients
+235,"Food, Genetically Modified"
+236,"Food, Fortified"
+241,Access to Healthy Foods
+242,Food Preferences
+246,Food Security
+247,Food Supply
+248,Food Assistance
+252,Food Safety
+253,Food Handling
+254,Food Preservation
+255,Food Fussiness
+256,Food Coloring Agents
+257,Food Preservatives
