@@ -5,6 +5,7 @@ This pipeline is designed to identify significant patterns and relationships wit
 
 The topic modeling and data retrieval pipeline is available as Jupyter notebook (`grpm_bertopic.ipynb`) and is designed to unravel hidden topic among PubMed genetic literature.
 
+[![Manuscript](https://img.shields.io/badge/paper-10.1101/2023.08.04.23293659-blue.svg)](https://link.springer.com/chapter/10.1007/978-3-031-78093-6_1)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/grpm_bertopic/blob/main/grpm_bertopic.ipynb)
 
 
